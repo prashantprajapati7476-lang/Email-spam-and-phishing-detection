@@ -23,4 +23,4 @@ This project detects spam and phishing emails using Machine Learning and Deep Le
 - Hybrid ML + DL Model
 
 ## Author
-Piyush Kansal
+Prashant Kumar
